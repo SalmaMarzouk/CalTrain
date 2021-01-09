@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CalTrain.dir/caltrain.c.o CMakeFiles/CalTrain.dir/caltrain-runner.c.o  -o CalTrain  -lpthread 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/salma/CLionProjects/CalTrain/caltrain.c
+pthread.h
+-
+caltrain.h
+/home/salma/CLionProjects/CalTrain/caltrain.h
+
+/home/salma/CLionProjects/CalTrain/caltrain.h
+pthread.h
+-
+
